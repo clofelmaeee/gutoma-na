@@ -1,0 +1,12 @@
+Gutoma Na
+
+- Vite - React - Tailwind CSS
+
+- a website that promotes their food and local space where people can visit, unwind and relax.
+
+
+- spaces
+- menu
+- location
+- food features carousel
+- spots features cards - hoverable scale up
