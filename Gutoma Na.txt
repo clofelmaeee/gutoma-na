@@ -1,8 +1,8 @@
 Gutoma Na
 
-- Vite - React - Tailwind CSS
+- Vite - React - CSS
 
-- a website that promotes their food and local space where people can visit, unwind and relax.
+- Gutoma Na (GN) is a vibrant website that showcases delicious food and inviting local spaces, offering people a place to unwind, relax, and enjoy a great atmosphere. I built the static landing page for Gutoma Na using React.js and JavaScript, styled it with CSS, and deployed it on Vercel for a fast and reliable user experience.
 
 
 - spaces
